@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268265922042",
+    "project_id": "scorohod-delivery",
+    "storage_bucket": "scorohod-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268265922042:android:63ee3c625781b3a8b39843",
+        "android_client_info": {
+          "package_name": "com.scorohod.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268265922042-sb686sraqjr35dqkgk650dc4v7e1gvcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxmIste6m2S7xDi6OtXH3MIxDk6vxf3p8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268265922042-sb686sraqjr35dqkgk650dc4v7e1gvcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+enum Account {
+  driver,
+  manager,
+}
